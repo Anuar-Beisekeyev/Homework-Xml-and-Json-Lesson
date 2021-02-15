@@ -1,0 +1,4 @@
+G:\Проекты\HomeworkXmlAndJsonLesson\HomeworkXmlAndJsonLesson\obj\Debug\netcoreapp3.1\HomeworkXmlAndJsonLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkXmlAndJsonLesson\HomeworkXmlAndJsonLesson\obj\Debug\netcoreapp3.1\HomeworkXmlAndJsonLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkXmlAndJsonLesson\HomeworkXmlAndJsonLesson\obj\Debug\netcoreapp3.1\HomeworkXmlAndJsonLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkXmlAndJsonLesson\HomeworkXmlAndJsonLesson\obj\Debug\netcoreapp3.1\HomeworkXmlAndJsonLesson.csproj.CoreCompileInputs.cache
